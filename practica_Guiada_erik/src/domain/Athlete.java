@@ -12,7 +12,7 @@ public class Athlete {
 	public enum Genre {
 		MALE, FEMALE;
 	}
-
+//ada
 	private int code; // código único del atleta
 	private String name; // nombre del atleta
 	private Genre genre; // genéro del atleta
